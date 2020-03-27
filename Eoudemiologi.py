@@ -5,3 +5,6 @@
 # sjekking av jecbhbdjk
 
 # nonononooo
+
+
+print('hei')
